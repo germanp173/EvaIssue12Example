@@ -1,0 +1,3 @@
+rootProject.name = 'EvaIssue12Example'
+
+include ':app'
